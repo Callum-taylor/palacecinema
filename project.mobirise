@@ -36,10 +36,10 @@
     "siteFonts": [],
     "uniqCompNum": 8,
     "versionPublish": "4.9.1",
-    "gdpr": "By continiung you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>.",
+    "gdpr": "",
     "favicon": "",
     "noImageResize": "",
-    "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>."
+    "cookiesAlert": "We use cookies to give you the best experience. By using this website you agree to the use of cookies."
   },
   "pages": {
     "index.html": {
