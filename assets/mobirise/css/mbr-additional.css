@@ -3938,6 +3938,46 @@ body {
 .cid-rTBULXP9pT .mbr-section-btn {
   text-align: left;
 }
+.cid-rU9ODJ2MNv {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-rU9ODJ2MNv h4 {
+  width: 85%;
+  font-weight: 500;
+  margin-bottom: 0;
+}
+.cid-rU9ODJ2MNv p {
+  color: #767676;
+}
+.cid-rU9ODJ2MNv .card-wrapper {
+  border-top: 1px solid #efefef;
+  background-color: #ffffff;
+  position: relative;
+  justify-content: unset;
+}
+.cid-rU9ODJ2MNv .card-wrapper .card-box {
+  padding: 2rem 2rem 2rem 0;
+  width: 100%;
+}
+.cid-rU9ODJ2MNv .card-wrapper .card-box .top-line {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.cid-rU9ODJ2MNv .card-wrapper .card-box .bottom-line {
+  width: 85%;
+}
+@media (max-width: 767px) {
+  .cid-rU9ODJ2MNv .card-wrapper .card-box .bottom-line {
+    width: 100%;
+  }
+  .cid-rU9ODJ2MNv .card-wrapper .card-box .bottom-line p {
+    text-align: center;
+    margin: 1rem 0 0 0;
+  }
+}
 .cid-rhkAhdlf9U {
   padding-top: 30px;
   padding-bottom: 30px;
